@@ -19,7 +19,7 @@ VALUES
 ("Base MAC", "Base Matte ...", 150.00),
 ("Batom Boca Rosa", "Batom Matte", 50.50),
 ("Shampoo Kerastase", "Para cabelos secos", 82.00),
-("consicionador Kerastase", "Para cabelos secos ...", 90.50);
+("condicionador Kerastase", "Para cabelos secos ...", 90.50);
 
 -- CONSULTANDO A TABELA PRODUTO
 
